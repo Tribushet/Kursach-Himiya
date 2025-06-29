@@ -218,7 +218,13 @@
  CPG_presledyvanie_bolsh: "Преследование большевиков"
  CPG_nast_v_russi: "Великий поход против большевизма"
  CPG_anti_bolshevism_terro: "Антибольшевистский террор"
-
+ CPG_partizan_deistv: "Партизанская тактика"
+ CPG_Pan_Turan_Propagand: "Пан-туранская пропаганда" 
+ CPG_Opora_na_nat: "Опора на туркестанский национализм"
+ CPG_podshinenie_russk_nasel: "Опора на русское население"
+ CPG_CPG_terror_protib_rus: "Изгнание русского населения"
+ CPG_kemalski_nat: "Кемалитский национализм"
+ CPG_djihad: "Джихад"
  #ministers
  fyodor_funtikov: "Фёдор Фунтиков"
  djunuid_khan: "Джунуид хан"
